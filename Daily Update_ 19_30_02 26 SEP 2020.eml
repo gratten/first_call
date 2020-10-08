@@ -1,0 +1,81 @@
+Delivered-To: grattenward@gmail.com
+Received: by 2002:a17:906:1fcf:0:0:0:0 with SMTP id e15csp2234950ejt;
+        Sat, 26 Sep 2020 16:30:15 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJza8syySgCuE8nMY8OVEWZ14QK5s8voYz2S9C2DVuGP0na5Pk15bo15GjMC7VqEsaBuMQb0
+X-Received: by 2002:a25:3b96:: with SMTP id i144mr7292755yba.220.1601163015535;
+        Sat, 26 Sep 2020 16:30:15 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1601163015; cv=none;
+        d=google.com; s=arc-20160816;
+        b=brRJnA0kIh12VxiiZD9UBj7LHSlScuhaD4AATlc4YwMSNnQBISroY47p4I+dIpjXXj
+         KvI+Qffo8w0FpEnj2qatGCN8f226wMsA/w8JAjyCIWtuJfr3Lxp4II84ri1lbrP8+mz4
+         h2xl+Odu9wCvNGBiWr5nnNGpOo3AlrDASr6pinYbahBDJn3c4BtTJ/Hr6U/FajJvn5MA
+         Ze/wRHVqSiNVW250SGFPMG7+avEYra91l7xZKV2WC5MPTMg3WIs/LwaLxBjhHCClwdIy
+         rpygo+V8u8FTJxXbQ0AilFCD3DSUngQ3tWG/EiCZghlMKC6karIoK04Fp5wVfphkv6Vy
+         PIRg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:date:mime-version:subject:from:to
+         :message-id;
+        bh=Kr5SblDrBWFyR4oWIgjaTLLBndYZWYaBQlOf9aUxJcA=;
+        b=Ec4xRJTZHAETJakRzPPcPHIsY2NUXgmjZYcNzMluZL9PhkPn9S/aJ3Th6rzKp1HA8t
+         X47x5CUbE5NXiY44shjOya3eTv3KIoNIwc6/kkHbmc9YQcutKwXyidZLB4/mwcys/nLs
+         fcAq6wCSE/IuKHPrbe4IEMCpdOOL78l9lAp3ceYknUYY06Oqe0sh0m139sLbUV2ngD7p
+         bzFU+Xn/uAmz3uMYEfb0KJhk0BISZQsjyZDOg30GDU5XS832B0lR6koHaOvDcNurfibN
+         rh6L3PQs2UHFwhgdM55LzYrvUXVJTp9Z8dyf2GHcpb0NJ/6ihBoz7tTCkI6nXG5yMI/D
+         h6Sg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of noreply@autopower.com designates 209.208.124.136 as permitted sender) smtp.mailfrom=NoReply@autopower.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=autopower.com
+Return-Path: <NoReply@autopower.com>
+Received: from mail.autopower.com (mail.autopower.com. [209.208.124.136])
+        by mx.google.com with ESMTP id b23si7162578yba.144.2020.09.26.16.30.14;
+        Sat, 26 Sep 2020 16:30:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@autopower.com designates 209.208.124.136 as permitted sender) client-ip=209.208.124.136;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@autopower.com designates 209.208.124.136 as permitted sender) smtp.mailfrom=NoReply@autopower.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=autopower.com
+Message-ID: <5f6fcf07.1c69fb81.28640.3190SMTPIN_ADDED_MISSING@mx.google.com>
+X-SmarterMail-Authenticated-As: postie@autopower.com
+Received: from FCT-SERVER (mail.autopower.com [209.208.124.136]) by mail.autopower.com with SMTP;
+   Sat, 26 Sep 2020 19:30:02 -0400
+To: jward@firstcalltruckparts.com,
+	jvice@firstcalltruckparts.com,
+	tbillingsley@firstcalltruckparts.com,
+	rbaldwin@autopower.com,
+	drawnoj@gmail.com,
+	grattenward@gmail.com,
+	aryanwrd96@hotmail.com
+From: NoReply@autopower.com
+Subject: Daily Update: 19:30:02 26 SEP 2020
+MIME-Version: 1.0
+X-Mailer: POSTIE (Feb 20 2001 16:55:59)
+Date: Sat, 26 Sep 2020 19:30:02 -0400
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head><title>Daily Update</title><style=
+>th,td{text-align:left;padding-right:1em;}th.right,td.right{text-align:r=
+ight;}</style></head><body><table><tr><th colspan=3D"2">Daily Update: 19=
+:30:02 26 SEP 2020</th><th></th></tr><tr><th>Category</th><th class=3D"r=
+ight">Current Day</th><th class=3D"right">Month to Date</th></tr><tr><td=
+>Net Sales:</td><td class=3D"right">$517.05</td><td class=3D"right">$263=
+,970.51</td></tr><tr><td>Cost of Sales:</td><td class=3D"right">$313.70<=
+/td><td class=3D"right">$182,883.35</td></tr><tr><td># of Invoices:</td>=
+<td class=3D"right">11</td><td class=3D"right">1520</td></tr><tr><td># o=
+f Line Items:</td><td class=3D"right">15</td><td class=3D"right">3443</t=
+d></tr><tr><td>Core Sales:</td><td class=3D"right">$0.00</td><td class=3D=
+"right">$5,046.00</td></tr><tr><td>AR Receipts:</td><td class=3D"right">=
+$0.00</td><td class=3D"right">$150,838.49</td></tr><tr><td>Labor Charges=
+:</td><td class=3D"right">$75.00</td><td class=3D"right">$7,558.80</td><=
+/tr><tr><td>Misc Charges:</td><td class=3D"right">$5.00</td><td class=3D=
+"right">$1,083.30</td></tr><tr><td>TB Sales:</td><td class=3D"right">$0.=
+00</td><td class=3D"right">$58,850.30</td></tr><tr><td>TB Cost of Sales:=
+</td><td class=3D"right">$0.00</td><td class=3D"right">$42,867.71</td></=
+tr><tr><td>WIX Sales:</td><td class=3D"right">$71.16</td><td class=3D"ri=
+ght">$14,392.61</td></tr><tr><td>WIX Cost of Sales:</td><td class=3D"rig=
+ht">$59.28</td><td class=3D"right">$13,205.78</td></tr></table></body></=
+html>
+ =20
+To reply use address: JWARD@FIRSTCALLTRUCKPARTS.COM
+
+
+
